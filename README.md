@@ -1,5 +1,9 @@
 # gs_edge
 
+João Víctor Flaitt - RM553888
+Lucas Bertolasi - RM553183
+Miguel Leal - RM553009
+
 Este projeto utiliza um ESP32 para monitorar o pH da água, detectar presença,
 medir distâncias, e registrar a temperatura e umidade. Este sistema pode ser
 utilizado em várias aplicações, como monitoramento ambiental, automação residencial, entre outros.
